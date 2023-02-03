@@ -1,0 +1,32 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "chinh",
+      "email": "chinh@gmail.com",
+      "password": "12345",
+      "repeatpassword": "12345"
+    },
+    {
+      "id": 2,
+      "name": "thanh",
+      "email": "thanh@gmail.com",
+      "password": "12345",
+      "repeatpassword": "12345"
+    },
+    {
+      "id": 3,
+      "name": "huy",
+      "email": "huy@gmail.com",
+      "password": "12345",
+      "repeatpassword": "12345"
+    },
+    {
+      "name": "dfsdf",
+      "email": "chinh@gmail.com",
+      "password": "sdas",
+      "repeatpassword": "dsds",
+      "id": 4
+    }
+  ]
+}
